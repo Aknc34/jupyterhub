@@ -33,7 +33,7 @@
     "lodash.debounce": "^4.0.8",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
-    "react-bootstrap": "^2.1.1",
+    "react-bootstrap": "^2.6.0",
     "react-dom": "^17.0.1",
     "react-icons": "^4.1.0",
     "react-multi-select-component": "^3.0.7",
