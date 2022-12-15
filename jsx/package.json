@@ -38,7 +38,7 @@
     "react-icons": "^4.1.0",
     "react-multi-select-component": "^3.0.7",
     "react-object-table-viewer": "^1.0.7",
-    "react-redux": "^7.2.2",
+    "react-redux": "^7.2.9",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "recompose": "npm:react-recompose@^0.31.2",
