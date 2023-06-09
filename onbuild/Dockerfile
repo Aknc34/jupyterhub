@@ -4,7 +4,7 @@
 #
 # Derivative images must have jupyterhub_config.py next to the Dockerfile.
 
-ARG BASE_IMAGE=jupyterhub/jupyterhub:latest
+ARG BASE_IMAGE=jupyterhub/jupyterhub:4.0.1
 FROM $BASE_IMAGE
 
 ONBUILD COPY jupyterhub_config.py /srv/jupyterhub/jupyterhub_config.py
