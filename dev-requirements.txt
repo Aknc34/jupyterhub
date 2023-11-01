@@ -23,3 +23,4 @@ tbump
 # I *think* this should only affect testing, not production
 urllib3!=1.25.4,!=1.25.5
 virtualenv
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
