@@ -39,8 +39,8 @@
     "react-multi-select-component": "^3.0.7",
     "react-object-table-viewer": "^1.0.7",
     "react-redux": "^7.2.2",
-    "react-router": "^5.2.0",
-    "react-router-dom": "^5.2.0",
+    "react-router": "^6.0.0",
+    "react-router-dom": "^6.0.0",
     "recompose": "npm:react-recompose@^0.31.2",
     "redux": "^4.0.5",
     "regenerator-runtime": "^0.13.9"
