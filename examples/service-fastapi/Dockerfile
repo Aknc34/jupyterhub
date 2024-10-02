@@ -1,4 +1,4 @@
-FROM jupyterhub/jupyterhub
+FROM jupyterhub/jupyterhub:5.2.0
 
 # Create test user (PAM auth) and install single-user Jupyter 
 RUN useradd testuser --create-home --shell /bin/bash
