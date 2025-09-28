@@ -6,7 +6,7 @@ beautifulsoup4
 coverage
 cryptography
 html5lib  # needed for beautifulsoup
-jupyterlab >=3
+jupyterlab>=4.4.8
 mock
 # nbclassic provides the '/tree/' handler, which we use in tests
 # it is a transitive dependency via jupyterlab,
